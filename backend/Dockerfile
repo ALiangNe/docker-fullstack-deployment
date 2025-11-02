@@ -1,6 +1,6 @@
 FROM node:22
 
-MAINTAINER yqb
+LABEL maintainer="llq"
 
 WORKDIR /app
 

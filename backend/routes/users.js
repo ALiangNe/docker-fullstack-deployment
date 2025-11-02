@@ -5,7 +5,7 @@ const mysql = require('mysql2/promise');
 
 // 使用 Docker Compose 中的服务名 'db' 连接
 const dbConfig = {
-host: 'mysql-db',
+host: 'mysql-db-llq',
 user: 'root',
 port: 3306,
 password: 'sqlset1010',

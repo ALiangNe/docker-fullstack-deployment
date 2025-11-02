@@ -1,4 +1,3 @@
-# syntax=docker.io/docker/dockerfile:1
 # 可以适当提高一下版本，这里我把node18修改为了20
 FROM node:22-alpine AS base
 
